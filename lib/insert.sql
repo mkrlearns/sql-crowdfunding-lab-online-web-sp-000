@@ -4,7 +4,7 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUE
   ("Standing Desk", "office", 199.99, "09/09/2019", "09/09/2020"),
   ("Laptop", "electronics", 1499.99, "12/25/2019", "12/25/2020"),
   ("Mechanical Keyboard", "electronics", 299.99, "01/01/2019", "01/01/2020"),
-  ("Learn Python 3 the Hard Way", "books", 29.99, "11/15/2019", "11/15/2020"),
+  ("Desk Chair", "office", 89.99, "11/15/2019", "11/15/2020"),
   ("Learn Python 3 the Hard Way", "books", 29.99, "11/20/2019", "11/20/2020"),
   ("Learn Python 3 the Hard Way", "books", 29.99, "06/23/2019", "06/23/2020"),
   ("Learn Python 3 the Hard Way", "books", 29.99, "10/30/2019", "10/30/2020"),
