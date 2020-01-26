@@ -8,7 +8,7 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUE
   ("Raspberry Pi 3 B+", "electronics", 59.99, "11/20/2019", "11/20/2020"),
   ("The Story of Tools", "books", 29.99, "06/23/2019", "06/23/2020"),
   ("LCD Monitor", "electronics", 129.99, "10/30/2019", "10/30/2020"),
-  ("Learn Python 3 the Hard Way", "books", 29.99, "01/02/2019", "01/02/2020");
+  ("Stationary", "office", 29.99, "01/02/2019", "01/02/2020");
 
 INSERT INTO users (name, age) VALUES
   ("Dan", 21),
