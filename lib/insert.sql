@@ -1,6 +1,6 @@
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES
   ("Learn Python 3 the Hard Way", "books", 29.99, "05/15/2019", "05/15/2020"),
-  ("Learn Python 3 the Hard Way", "books", 29.99, "07/23/2019", "07/23/2020"),
+  ("A Smarter Way to Learn Python", "books", 19.99, "07/23/2019", "07/23/2020"),
   ("Learn Python 3 the Hard Way", "books", 29.99, "09/09/2019", "09/09/2020"),
   ("Learn Python 3 the Hard Way", "books", 29.99, "12/25/2019", "12/25/2020"),
   ("Learn Python 3 the Hard Way", "books", 29.99, "01/01/2019", "01/01/2020"),
