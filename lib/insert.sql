@@ -1,4 +1,5 @@
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES
+  ("Learn Python 3 the Hard Way", "books", 29.99, "05/15/2019", "05/15/2020"),
 
 INSERT INTO users (name, age) VALUES
   ("Dan", 21),
