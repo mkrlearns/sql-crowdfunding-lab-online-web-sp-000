@@ -1,4 +1,6 @@
-INSERT INTO users (name,age) VALUES
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES
+
+INSERT INTO users (name, age) VALUES
   ("Dan", 21),
   ("Ryan", 24),
   ("Kathy", 45),
